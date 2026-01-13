@@ -15,4 +15,4 @@ installing ubuntu
     <img width="1366" height="601" alt="image" src="https://github.com/user-attachments/assets/b8a4a46f-f7cc-4957-8b5e-d1fc30e3e169" />
   - type in
 
-'''wsl'''
+    wsl
